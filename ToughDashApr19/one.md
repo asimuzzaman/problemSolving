@@ -24,10 +24,9 @@ You must one integer which is the minimum number of additional chocolates that M
 #### Samples
 
 Input
+3 10
 
 Output
-
-3 10
 
 2
 
