@@ -30,9 +30,11 @@ You will have to print the digit that has been used the most number of times in 
 
 Input
 
-Output
 
 1213
+
+Output
+
 
 1
 
