@@ -37,15 +37,23 @@ Or,
 
 Input
 
-Output
+
 
 3
+
 4 5
+
 4 4
+
 5 2
 
+Output
+
+
 Sadia will be happy.
+
 Sadia will be happy.
+
 Oops!
 
   
