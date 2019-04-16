@@ -59,15 +59,21 @@ For each test case print, the number of legal balls and overs played. Make sure 
 
 Input
 
-Output
 
 3
+
 W123NW6WD64
+
 444WO213
+
 444
 
+Output
+
 1 OVER
+
 1 OVER 1 BALL
+
 3 BALLS
 
   
